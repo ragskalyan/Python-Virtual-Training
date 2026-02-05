@@ -11,3 +11,7 @@ if user_id % 2 == 0:
     print(True)
 else:
     print(False)
+
+# easy method
+
+print(user_id % 2 == 0)
