@@ -1,0 +1,25 @@
+In Python, how do you create a single line comment?
+Using # we can create a single line comment
+
+Which of the following is an invalid variable name i Python?
+a. first_name
+b. 1st_name
+c. _name
+d. Name_1
+
+Answer: a & c
+
+Which data type in Python is immutable?
+Answer: Tuple
+
+What is the data type of the variable a = 3.14?
+Any integer that end with a decimal value is float
+
+Which of the following methods can be used to add an element to a set?
+add()
+
+What should you do to check if Python is already installed on your computer?
+
+open cmd/terminal and type python or python3 or python --version or python3 --version
+Note:
+    python and python3 will open the python ide
